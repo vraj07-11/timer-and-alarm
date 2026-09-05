@@ -1,6 +1,6 @@
 # ⏰ Timer and Alarm Clock
 
-A functional time-management web application featuring a precise stopwatch, countdown timer, and customizable alarm clock functionality. Built with vanilla web technologies and includes working audio alerts.
+A functional time-management web application featuring a precise stopwatch and alarm clock functionality. Built with vanilla web technologies and includes working audio alerts.
 
 ## ✨ Features
 
